@@ -21,3 +21,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+REACT_APP_TMDB_API_KEY=3223f2f3bc550e7b4ed5d469858b435c
